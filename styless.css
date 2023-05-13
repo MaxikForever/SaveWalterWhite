@@ -1,0 +1,154 @@
+body{
+    background: #1ba11a url(img/tile.png);
+    font-family: Comic Sans, Comic Sans Ms, cursive;
+    margin:0; 
+    padding: 0;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+}
+
+ul li{
+    display: inline;
+}
+
+
+/* img{
+    border:none;
+} */
+
+#ribbons {
+	background: url(img/bow_left.png) no-repeat 155px 70px;
+}
+
+div#ribbons p {
+	background: url(img/bow_right.png) no-repeat 655px 70px;
+	padding: 22px;
+}
+#walter-container{
+    width: 965px;
+    margin: 0 auto; 
+    padding: 20px;
+    text-align: center;
+}
+
+#walter-container h1{
+    color: white;
+    font-family: times, helvetic, sans-serif;
+    font-size: 112px;
+    margin: 0;
+    padding-top: 12px;
+}
+
+#walter-container h3{
+	font-size: 40px;
+	margin: 0;
+	font-weight: normal;
+}
+
+#walter-container p{
+    font-weight: bold;
+	margin: 1em 50px;
+	line-height: 1.2em;
+	text-align: left;
+}
+
+#walter-container p.middle{
+	text-align: center;
+}
+
+ #second-row {
+	margin: 42px 0;
+}
+
+
+#second-row li {
+	margin: 0px 18px;
+}
+
+#second-row li img {
+	vertical-align:top;
+}
+
+#fourth_row li {
+	margin: 40px 95px;
+}
+
+
+#donate-container {
+	margin: 40px 0;
+}
+
+
+#donations-so-far {
+	background: #000;
+	width: 840px;
+	height: 185px;
+	margin: 0 auto;
+	padding: 8px;
+}
+
+#donations-so-far p {
+	margin: 12px 0;
+}
+
+
+#donation-counter li {
+	background: #FFF;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 12px 6px;
+	vertical-align: middle;
+	text-align: center;
+	height: 50px;	
+    
+}
+
+#donation-counter {
+	margin-top: 32px;
+}
+
+#donation-counter li.push{
+	margin-left: 18px;
+}
+
+
+
+
+.white {
+	color: #FFF;
+}
+
+.yellow {
+	color: #fff54f;
+}
+.dark-yellow {
+	color: #ffe107;
+}
+.small-copy {
+	font-size: 21px;
+}
+.medium-copy {
+	font-size: 25px;
+}
+.large-copy {
+	font-size: 42px;
+}
+.legal {
+	text-align:center;
+	padding-bottom:20px;
+}
+.legal a {
+	color:#fff;
+}
+.legal a + a {
+	margin-left:40px;
+}
+.copyright {
+	text-align:center;
+	font-size:12px;
+	padding-bottom:20px;
+}
